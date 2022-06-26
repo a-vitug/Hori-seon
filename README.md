@@ -24,8 +24,8 @@ THEN I find a concise, descriptive title
 
 ---
 
-### Link
-View the site [here](https://a-vitug.github.io/Hori-seon/)
+<!-- ### Link
+View the site [here](https://a-vitug.github.io/Hori-seon/) -->
 
 ---
 
